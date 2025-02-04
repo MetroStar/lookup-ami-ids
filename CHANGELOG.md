@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### 0.1.0
 
-**Commit Delta**: https://github.com/plus3it/lookup-ami-ids/compare/0.0.0...0.1.0
+**Commit Delta**: https://github.com/MetroStar/lookup-ami-ids/compare/0.0.0...0.1.0
 
 **Released**: 2021.10.08
 
